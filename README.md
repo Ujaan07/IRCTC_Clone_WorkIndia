@@ -1,4 +1,4 @@
-# DBMS PROJECT
+# WorkIndia Technical Assessment
 
 # IROR : Indian Railway Online Reservation System
 
